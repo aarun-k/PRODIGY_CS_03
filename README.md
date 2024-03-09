@@ -19,5 +19,9 @@ This Python tool allows users to assess the strength of a password based on vari
 2. Navigate to the project directory:
 `cd password-complexity-checker`
 
-4. Run the tool:
+3. Run the tool:
 `python password_checker.py`
+
+4. Enter your password when prompted.
+
+5. The tool will assess the strength of your password and provide a descriptive rating.
